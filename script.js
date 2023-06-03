@@ -4,6 +4,8 @@ function shuffleVerbs() {
    var verbsContainer = document.getElementById('verbsContainer')
    verbsContainer.innerHTML = ''
 
+   shuffleArray(verbs)
+
    var verbDiv = document.createElement('div')
    var verb = verbs[currentIndex].verb
    verbDiv.textContent = verb
