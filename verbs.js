@@ -136,4 +136,8 @@ const verbs = [
    { verb: 'тянуть', translation: 'ziehen' },
    { verb: 'целовать', translation: 'kussen' },
    { verb: 'ссориться', translation: 'schreiten' },
+   { verb: 'будить', translation: 'wecken' },
+   { verb: 'хвалить', translation: 'loben' },
+   { verb: 'плакать', translation: 'weinen' },
+   { verb: 'печь', translation: 'backen' },
 ]
